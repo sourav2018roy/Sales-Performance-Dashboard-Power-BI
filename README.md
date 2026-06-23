@@ -1,4 +1,8 @@
-ales Performance Dashboard | Power BI
+Project File
+https://github.com/sourav2018roy/Sales-Performance-Dashboard-Power-BI/blob/main/Sales%20Performance%20Analysis%20Dashboard%20-%20Power%20BI%20by%20Sourav%20Roy.pdf
+
+
+Sales Performance Dashboard | Power BI
 Project Overview
 
 Developed an interactive Power BI dashboard to analyze sales performance across regions, product categories, and time periods. The dashboard provides business insights into revenue growth, profit margins, regional performance, and category-level sales trends to support data-driven decision-making.
